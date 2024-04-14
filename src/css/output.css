@@ -852,6 +852,19 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
+.bg-\[\] {
+  background-color: ;
+}
+
+.bg-\[EEEBDD\] {
+  background-color: EEEBDD;
+}
+
+.bg-\[\#EEEBDD\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(238 235 221 / var(--tw-bg-opacity));
+}
+
 .fill-current {
   fill: currentColor;
 }
